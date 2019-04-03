@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "535154764868",
+    "firebase_url": "https://imhear2-27e91.firebaseio.com",
+    "project_id": "imhear2-27e91",
+    "storage_bucket": "imhear2-27e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535154764868:android:2efa370b3338b4da",
+        "android_client_info": {
+          "package_name": "com.example.imhear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535154764868-gfcajplp3pqi3680u571kd0c9aajdifd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imhear",
+            "certificate_hash": "ac8c4885b944a70f9ada0de748e63f01e95d7060"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9nUwYaIX0xsrv3GQ5tDt9K-u3i0LT9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535154764868-2jjjftn34let3bel4psac4a5omp1smcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
